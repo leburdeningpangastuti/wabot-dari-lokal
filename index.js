@@ -61,7 +61,7 @@ qris = fs.readFileSync(donasi)
 const  { ind } = require(`./language`)
 lang = ind //language
 enter = '\n'
-typemenu = 'templateLocation'
+typemenu = 'list'
 moment.tz.setDefault("Asia/Jakarta").locale("id");
 
 // Database Game
