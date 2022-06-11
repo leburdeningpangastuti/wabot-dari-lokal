@@ -1,20 +1,20 @@
 {
-  "name": "4lphab0t-Md",
+  "name": "Ourtecads-BOT",
   "version": "11.0.0",
-  "description": "4lpha B0t Multi Device, Only update in YouTube ZEEONE OFC",
+  "description": "Ourtecads-BOT Multi Device, Only update in https://github.com/leburdeningpangastuti/wabot-dari-lokal",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
     "start": "node zeeone.js"
   },
   "keywords": [
-    "whatsapp",
-    "2021",
-    "wabase-md",
+    "WhatsApp",
+    "2022",
+    "Ourtecads-BOT",
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Our Team x ZEEONEOFC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
